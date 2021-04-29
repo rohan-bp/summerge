@@ -1,2 +1,2 @@
-# summerge
+# SumMerge
 SumMerge Implementation
